@@ -16,8 +16,8 @@
 ## Description
 #### Data Structure challenge
   * write at least three tests for each method that you've written
-  * complete the Linked List data structure by adding a `remove(node)` method
-  * implement `reverse()` as a method on the Linked List prototype; from your whiteboard exercise
+  * complete the Linked List data structure by adding a `remove(node)` method DONE
+  * implement `reverse()` as a method on the Linked List prototype; from your whiteboard exercise DONE
   * in comments above or within each function, note the Big-O runtime
 #### UI CHALLENGE
 * create a sliding check box
