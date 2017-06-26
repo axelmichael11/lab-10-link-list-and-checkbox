@@ -3,11 +3,11 @@
 
 ## To Submit this Assignment
 #### UI Challenge
-* create a codepen and submit a link 
+* create a codepen and submit a link
 
 #### DATA STRUCTURE CHALLENGE
-  * fork this repository
-  * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-duncan`
+  * fork this repository DONE
+  * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-duncan` DONE
   * push to your repository
   * submit a pull request to this repository
   * submit a link to your PR in canvas
@@ -20,7 +20,7 @@
   * implement `reverse()` as a method on the Linked List prototype; from your whiteboard exercise
   * in comments above or within each function, note the Big-O runtime
 #### UI CHALLENGE
-* create a sliding check box 
+* create a sliding check box
 
 ## Bonus Points:
   * implement `findNthNode()` as a method on the LL prototype
